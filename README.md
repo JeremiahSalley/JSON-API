@@ -13,7 +13,9 @@ USE CRUD
 
 * (/schedule) will show the full 2018-2019 schedule
 
-* (/schedule/:id) will show the individual match up 
+* (/schedule/:id) will show the individual match up
+* (/schedule/:id) search by id to update
+* (/schedule/:id) search by id and delete
 
 ## Installations 
 
